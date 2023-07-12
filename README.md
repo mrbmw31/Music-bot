@@ -1,5 +1,5 @@
 # Music-bot
-
+[![Run on Repl.it](https://repl.it/badge/github/mrbmw31/Music-bot)](https://repl.it/github/mrbmw31/Music-bot)
 A complete code to download for a music bot 🎧
 
 Looking for a code for a music bot ? This fully open source code is made for your project !
